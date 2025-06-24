@@ -25,6 +25,7 @@ const Footer = () => {
               <li className="mb-2"><a href="/#home" className="text-white-50 text-decoration-none">Início</a></li>
               <li className="mb-2"><a href="/#sobre" className="text-white-50 text-decoration-none">Sobre</a></li>
               <li className="mb-2"><a href="/#menu" className="text-white-50 text-decoration-none">Menu</a></li>
+              <li className='mb-2'><a className="text-white-50 text-decoration-none" href="/Delivery">Delivery</a></li>
               <li className="mb-2"><Link className="text-white-50 text-decoration-none" to="/aves">Aves</Link></li>
               <li className="mb-2"><Link className="text-white-50 text-decoration-none"to="/reservas">Reservas</Link></li>
               <li className="mb-2"><a href="/#contacto" className="text-white-50 text-decoration-none">Contato</a></li>
